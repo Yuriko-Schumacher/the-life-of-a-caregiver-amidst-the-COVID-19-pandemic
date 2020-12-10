@@ -494,3 +494,9 @@ video {
     padding: 3em 4em;
     margin-bottom: 6em;
 }
+
+@media only screen and (max-width: 1000px) {
+    .footer--menu--container {
+        width: 70%;
+    }
+}
