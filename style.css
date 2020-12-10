@@ -384,6 +384,7 @@ a:hover {
 
 video {
     height: 60vh;
+    max-width: 90vw;
 }
 
 .video--caption {
@@ -441,7 +442,8 @@ video {
 }
 
 .lisa--menu--container {
-    width: 60%;
+    width: 80%;
+    max-width: 800px;
     margin: 0 auto;
     border-top: 5px solid #f0f3f4;
     margin-top: 100px;
