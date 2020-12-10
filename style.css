@@ -464,39 +464,31 @@ video {
     max-width: 800px;
     font-family: "IBM Plex Sans", sans-serif;
 }
-
-#footer {
-    height: 80vh;
+.footer--top {
+    text-align: center;
+    font-size: 1.5em;
+    margin: 6em 0;
+    font-family: "IBM Plex Sans", sans-serif;
 }
 
-.footer--menu--container {
-    width: 50%;
-    max-width: 600px;
+.footer--container {
+    background-color: #f0f3f4;
     margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.footer--top {
-    text-align: center;
-    font-size: 1.5em;
+.about-project {
+    width: 50%;
+    max-width: 500px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.9em;
     margin: 4em 0;
 }
 
-.footer--menu {
-    font-family: "IBM Plex Sans", sans-serif;
-    font-size: 0.9em;
-}
-
-.about-project {
-    background-color: #f0f3f4;
-    padding: 3em 4em;
-    margin-bottom: 6em;
-}
-
 @media only screen and (max-width: 1000px) {
-    .footer--menu--container {
+    .about-project {
         width: 70%;
     }
 }
