@@ -465,11 +465,6 @@ video {
     font-family: "IBM Plex Sans", sans-serif;
 }
 
-#column1 > article,
-#column2 > article {
-    background-color: #f0f3f4;
-}
-
 #footer {
     height: 80vh;
 }
@@ -492,4 +487,10 @@ video {
 .footer--menu {
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 0.9em;
+}
+
+.about-project {
+    background-color: #f0f3f4;
+    padding: 3em 4em;
+    margin-bottom: 6em;
 }
