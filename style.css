@@ -643,6 +643,7 @@ video {
 
     #lisa--hero {
         background-image: none;
+        padding: 1.5em;
     }
 
     #lisa--hero > .hero--container > #hero--caption {
