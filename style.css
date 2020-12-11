@@ -514,19 +514,15 @@ video {
 
 @media only screen and (max-width: 600px) {
     body {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     p {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     h1 {
-        font-size: 25px;
-    }
-
-    h2 {
-        font-size: 23px;
+        font-size: 24px;
     }
 
     .hero {
@@ -576,6 +572,10 @@ video {
     .overlay,
     .card--column {
         width: 60vw;
+    }
+
+    .overlay > h2 {
+        font-size: 20px;
     }
 
     .card--column {
@@ -631,7 +631,7 @@ video {
     .carousel {
         height: 300px;
     }
-    
+
     .devide {
         height: unset;
     }
