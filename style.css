@@ -594,7 +594,7 @@ video {
 
     .menu--container {
         height: unset;
-        padding: 2em;
+        padding: 6em 2em;
     }
 
     .menu > .arrow {
