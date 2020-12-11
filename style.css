@@ -597,10 +597,6 @@ video {
         padding: 6em 2em;
     }
 
-    .menu > .arrow {
-        display: none;
-    }
-
     #hero--caption {
         width: 100%;
     }
