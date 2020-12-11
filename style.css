@@ -556,7 +556,8 @@ video {
     }
 
     .TOC--container {
-        width: 100%;
+        width: 80%;
+        margin: 2em 0;
     }
 
     .cards--story,
