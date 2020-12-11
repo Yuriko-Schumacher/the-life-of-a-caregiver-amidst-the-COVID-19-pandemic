@@ -30,6 +30,7 @@ a:hover {
 
 #hero--hero > .hero--container {
     width: 80%;
+    max-width: 800px;
 }
 
 .hero {
@@ -74,7 +75,8 @@ a:hover {
 }
 
 .TOC--top {
-    width: 80%;
+    width: 100%;
+    max-width: 800px;
     text-align: center;
     margin: 0 auto 3em;
 }
@@ -413,6 +415,7 @@ video {
 #lisa--8 {
     height: 100vh;
     width: 80%;
+    max-width: 1200px;
     margin: 0 auto;
     justify-content: space-around;
 }
