@@ -493,6 +493,12 @@ video {
     font-family: "IBM Plex Sans", sans-serif;
 }
 
+.social--share {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
 .footer--container {
     background-color: #f0f3f4;
     margin: 0 auto;
