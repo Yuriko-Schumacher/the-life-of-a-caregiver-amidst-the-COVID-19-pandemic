@@ -542,6 +542,10 @@ video {
         margin-top: 1em;
     }
 
+    .scroll-to-start {
+        display: none;
+    }
+
     .article {
         margin: 30px auto;
     }
